@@ -1,6 +1,6 @@
 token:ghp_...
 username:ghutanaka
-password:10mo****g
+password:10mo***g
 reponame:firstrepo
 author:Takeshi Tanaka
 
